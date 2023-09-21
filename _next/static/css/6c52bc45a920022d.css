@@ -1,0 +1,13 @@
+.ClientsBlock_image___CrEw {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    height: 166px
+}
+
+@media (max-width:960px) {
+    .ClientsBlock_image___CrEw {
+        width: 100px
+    }
+}
